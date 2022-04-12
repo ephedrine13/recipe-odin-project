@@ -8,6 +8,6 @@ This project will consist of three different recipes pages (Fish, Meat and Chick
 With each pages it will have 4 recipes.
 
 ## References
-..* [Kitchen Recipe Websites](https://www.allrecipes.com/recipe/13870/deviled-eggs/).
-..* [Odin Project](https://www.theodinproject.com/).
+* [Kitchen Recipe Websites](https://www.allrecipes.com/recipe/13870/deviled-eggs/).
+* [Odin Project](https://www.theodinproject.com/).
 
